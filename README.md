@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">byte1337 ⚡</h1>
 
-<!--
-**isnull1337/isnull1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Developer • Vue.js • SAMP UI
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<em>Turning code into clean interfaces</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+* 💻 Frontend dev (Vue / UI / CEF)
+* 🎮 SAMP interfaces & systems
+* ⚡ Clean + minimal code lover
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript">
+<img src="https://img.shields.io/badge/-Vue-000?&logo=vue.js">
+<img src="https://img.shields.io/badge/-HTML5-000?&logo=html5">
+<img src="https://img.shields.io/badge/-CSS3-000?&logo=css3">
+<img src="https://img.shields.io/badge/-Vite-000?&logo=vite">
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=byte1337&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=byte1337&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+### ⚡ Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byte1337&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+### 🧩 Projects
+
+* 🎮 SAMP UI systems
+* 🧠 Custom interfaces
+* ⚙️ Frontend tools
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Vue.js+Interface+Maker;Clean+Code+Only">
+</p>
