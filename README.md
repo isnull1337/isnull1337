@@ -1,6 +1,11 @@
 <h1 align="center">isnull1337 ⚡</h1>
 
 <p align="center">
+<img src="https://img.shields.io/badge/-VK-000?&logo=vk" href="https://vk.com/k.quoter">
+<img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram" href="https://t.me/morjex">
+</p>
+
+<p align="center">
 Frontend Developer • Vue.js • SAMP UI
 </p>
 
