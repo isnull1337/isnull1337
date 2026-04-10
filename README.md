@@ -1,8 +1,12 @@
 <h1 align="center">isnull1337 ⚡</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-VK-000?&logo=vk" href="https://vk.com/k.quoter">
-<img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram" href="https://t.me/morjex">
+<a href="https://vk.com/k.quoter">
+  <img src="https://img.shields.io/badge/-VK-000?&logo=vk">
+</a>
+<a href="https://t.me/morjex">
+  <img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram">
+</a>
 </p>
 
 <p align="center">
