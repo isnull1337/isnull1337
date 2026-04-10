@@ -22,12 +22,12 @@ Frontend Developer • Vue.js • SAMP UI
 ### 🛠 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript">
 <img src="https://img.shields.io/badge/-Vue-000?&logo=vue.js">
+<img src="https://img.shields.io/badge/-Vite-000?&logo=vite">
 <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5">
 <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3">
-<img src="https://img.shields.io/badge/-Vite-000?&logo=vite">
-<img src="https://img.shields.io/badge/-PAWN-000?style=flat">
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript">
+<img src="https://img.shields.io/badge/-PAWN-000?logo=github&logoColor=white">
 </p>
 
 ---
