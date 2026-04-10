@@ -40,7 +40,6 @@ Frontend Developer • Vue.js • SAMP UI
 ### 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=isnull1337&show_icons=true&theme=tokyonight&hide_border=true">
 <img src="https://streak-stats.demolab.com?user=isnull1337&theme=tokyonight&hide_border=true">
 </p>
 
