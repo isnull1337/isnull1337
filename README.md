@@ -33,6 +33,7 @@ Frontend Developer • Vue.js • SAMP UI
 <p>
 <img src="https://img.shields.io/badge/-Vue-000?&logo=vue.js">
 <img src="https://img.shields.io/badge/-Vite-000?&logo=vite">
+<img src="https://img.shields.io/badge/-Electron-000?&logo=electron">
 <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5">
 <img src="https://img.shields.io/badge/-SASS-000?&logo=sass">
 <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript">
