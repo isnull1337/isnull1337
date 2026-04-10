@@ -27,7 +27,7 @@ Frontend Developer • Vue.js • SAMP UI
 <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5">
 <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3">
 <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript">
-<img src="https://img.shields.io/badge/-PAWN-000?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-PAWN-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4Ij48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSI2MCIgZmlsbD0id2hpdGUiPk88L3RleHQ+PC9zdmc+" />
 </p>
 
 ---
