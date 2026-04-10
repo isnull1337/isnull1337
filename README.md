@@ -1,4 +1,4 @@
-<h1 align="center">byte1337 ⚡</h1>
+<h1 align="center">isnull1337 ⚡</h1>
 
 <p align="center">
 Frontend Developer • Vue.js • SAMP UI
@@ -13,6 +13,7 @@ Frontend Developer • Vue.js • SAMP UI
 ### 🧠 About Me
 
 * 💻 Frontend dev (Vue / UI / CEF)
+* 👩‍💻 PAWN dev (SA-MP)
 * 🎮 SAMP interfaces & systems
 * ⚡ Clean + minimal code lover
 
@@ -26,6 +27,7 @@ Frontend Developer • Vue.js • SAMP UI
 <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5">
 <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3">
 <img src="https://img.shields.io/badge/-Vite-000?&logo=vite">
+<img src="https://img.shields.io/badge/-PAWN-000?style=flat">
 </p>
 
 ---
@@ -33,8 +35,8 @@ Frontend Developer • Vue.js • SAMP UI
 ### 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=byte1337&show_icons=true&theme=tokyonight&hide_border=true">
-<img src="https://streak-stats.demolab.com?user=byte1337&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=isnull1337&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=isnull1337&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -42,7 +44,7 @@ Frontend Developer • Vue.js • SAMP UI
 ### ⚡ Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byte1337&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isnull1337&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
